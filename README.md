@@ -1,6 +1,6 @@
 # ManageBetCodes
 
-Convert bet codes between 18 bookmakers. View, split, merge and track bet slips, on the web or through a REST API.
+Convert bet codes between 29 bookmakers. View, split, merge and track bet slips, on the web or through a REST API.
 
 - Website: https://managebetcodes.app
 - API docs: https://managebetcodes.app/docs
